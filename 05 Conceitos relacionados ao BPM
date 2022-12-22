@@ -1,0 +1,99 @@
+Conceitos relacionados ao BPM
+Apresentar os conceitos fundamentais que demonstram as características do Business Process Management (BPM).
+
+NESTE TÓPICO
+ Características do BPM
+ Handoff
+ Fluxo de processo x Fluxo de trabalho
+
+
+Características do BPM
+Segundo a ABPMP (2013), o BPM possui características específicas que devem ser levadas em consideração ao se realizar a sua implantação na empresa. Essas características são:
+
+BPM é uma disciplina gerencial
+Essa afirmação significa que o BPM presume que os objetivos organizacionais podem ser alcançados com mais sucesso por meio do gerenciamento de processos. Para tal, BPM é composto por princípios e melhores práticas para orientar uma organização, não apresentando uma metodologia prescrita ou um kit de ferramentas. A intenção é que o BPM se integre e transforme a cultura da organização, moldando a forma como o negócio opera, envolvendo desde a alta administração e descendo até o nível operacional da empresa (ABPMP, 2013).
+
+BPM não é uma prescrição de estrutura de trabalho, metodologia ou conjunto de ferramentas
+Conforme ABPMP (2013), BPM não realiza essas prescrições porque tais decisões dependem de cada empresa, que deverá efetuar as adequações que forem necessárias de acordo com a sua realidade. O que a disciplina de BPM fará é prover auxílio às organizações para que essas possam alcançar seus objetivos organizacionais através dos seus processos de negócios e isso independe da empresa adotar estruturas de trabalho como Lean Six Sigma, TOGAF (The Open Group Architecture Framework) ou ferramentas como BSC (Balanced Scorecard) e quaisquer outras.
+
+BPM é uma capacidade básica interna
+Se o BPM for implementado com sucesso em uma empresa, pode-se afirmar que esta possui a capacidade de gerenciar seus processos de negócio de forma eficiente e eficaz, ou seja, possui a capacidade de BPM (ABPMP, 2013).
+
+Alcançar êxito na implementação e possuir essa capacidade envolve a necessidade de se trabalhar com métodos, pessoas e tecnologias de forma integrada, a fim de que os objetivos organizacionais realmente sejam alcançados, entregando valor aos seus clientes e também às partes interessadas. Dessa forma, a organização deve apresentar processos e tecnologias que apoiem as práticas de BPM, tais como (ABPMP, 2013):
+
+Definição e desenho de processos de negócio
+Construção e implementação de processos de negócio
+Monitoramento e controle da execução de processos de negócio
+Transformação contínua dos processos de negócio ao longo do tempo
+BPM visa entregar valor para o cliente
+Gerar valor para o cliente deve ser o principal objetivo das empresas. Para alcançar essa meta, as organizações devem adequar os seus processos a fim de melhorarem cada vez mais a qualidade dos seus produtos e serviços, atendendo às necessidades dos seus clientes. BPM vem ao encontro dessas necessidades empresariais.
+
+Assim como exposto pela ABPMP (2013), cliente não é somente aquele que paga, mas sim quem se beneficia do valor criado, podendo pagar ou não por isso. Por exemplo, os ouvintes de uma rádio são clientes dessa rádio, mesmo não pagando coisa alguma para a estação. Aqueles que investem vultosas somas em dinheiro nos comerciais da rádio não são clientes dela, mas buscam gerar valor para o verdadeiro cliente, que é a audiência.
+
+As organizações devem definir quem é realmente o seu cliente, deve estar bem claro a todos da empresa a quem ela destina os seus produtos e serviços. Esse entendimento permitirá que se dedique tempo e dinheiro aos processos corretos, realizando as alterações necessárias com foco no verdadeiro cliente (ABPMP, 2013).
+
+BPM trata o trabalho ponta a ponta e a orquestração das atividades ao longo das funções de negócio
+As funções de negócio dizem respeito às atividades realizadas em cada departamento/setor, pertencente a uma área específica da organização. O processo de negócio que gera valor ao cliente atravessa os diversos departamentos/setores existentes em uma empresa, a fim de utilizar suas funções de negócio para a criação de produtos e/ou serviços, os quais serão entregues ao cliente.
+
+O ato de gerenciar o início do processo, passando por todas as áreas envolvidas, até o seu final, atendendo o seu cliente, é chamado de gerenciamento ponta a ponta de processos de negócio. BPM se diferencia de outras formas de gestão porque busca controlar a orquestração das várias atividades existentes ao longo de múltiplas funções de negócio (ABPMP, 2013).
+
+Handoff
+As atividades de um setor, depois de concluídas, são passadas para o setor seguinte e assim consecutivamente, até o término do processo. Essa comunicação existente entre os setores, que é realizada ao transferir o resultado da sua atividade para o departamento seguinte é chamada de handoff.
+
+Cada handoff deve ser analisado cuidadosamente, pois podem gerar desconexões de processos. Assim, entende-se que quanto menor o número de handoffs, menor será a vulnerabilidade a desconexões de um dado processo de negócio (ABPMP, 2013).
+
+
+Processos de negócio ponta a ponta
+Fluxo de processo x Fluxo de trabalho
+Nesse ponto, é importante destacar as diferenças entre fluxo de processo e fluxo de trabalho. O fluxo de processo é interfuncional, ou seja, as atividades são passadas de departamento em departamento. O fluxo de trabalho é intrafuncional, isto é, ele ocorre dentro de um departamento específico, passando as atividades para as pessoas que trabalham nesse mesmo local.
+
+
+Fluxo de Processo vs Fluxo de Trabalho
+BPM trata O QUE, ONDE, QUANDO, POR QUE, COMO e POR QUEM o trabalho é realizado
+A representação gráfica dos processos de negócios pode ser realizada conforme demonstrado abaixo:
+
+Representação geral de atividades relacionada à Venda de Produtos, onde o processo se inicia no departamento de vendas ao receber o pedido. O setor financeiro verifica o pagamento, passando para o setor de estoque para separar os itens do pedido. Após isso, o setor de Faturamento emite a nota fiscal, finalizando o processo com o departamento de expedição, que envia o pedido.
+Representação geral de atividades - Venda de Produtos
+Fonte:
+O diagrama acima mostra QUEM faz O QUE no processo, mas não demonstra QUANDO, POR QUE e COMO é realizado cada passo do processo.
+
+Para a ABPMP (2013), é essencial que as seguintes questões também possam ser verificadas em um modelo de processos:
+
+Quando é realizado o trabalho?
+Que insumos materiais ou de informação são necessários?
+Que entregáveis ou artefatos são produzidos?
+Onde o trabalho é realizado?
+Onde são armazenadas as entregas de trabalho e os artefatos?
+Por que o trabalho é realizado?
+Quem é beneficiado com o resultado final?
+Assim, a modelagem de um processo de negócio completo deve conter detalhes suficientes que permitem compreender o que ocorre nos vários níveis de organização, envolvendo O QUE, ONDE, QUANDO, POR QUE e COMO o trabalho é realizado, além de mostrar QUEM é o responsável por sua realização (ABPMP, 2013).
+
+A implementação de BPM requer novos papéis e responsabilidades
+A empresa deve trabalhar com papéis específicos para a prática do BPM. De acordo com Baldam et al (2007), a equipe envolvida em BPM pode ser composta de:
+
+Equipe de BPM – equipe permanente na estrutura organizacional. Tem a responsabilidade de coordenar as ações de BPM na empresa. Papéis envolvidos:
+
+Gerente de BPM – conhecido como Chief Process Officer (CPO), é o maior cargo em BPM na empresa. Semelhante a um diretor ou gerente sênior.
+Líderes de processo – atuam em desenhos e redesenhos de processos, modelagem, formatação, cadastro e controle de revisões de padrões no sistema de gerenciamento de documentos. Estes podem atuar na equipe de BPM ou na equipe do processo.
+Auditor de processos – tem a função de verificar se o processo modelado corresponde ao que está sendo executado, analisando os registros, desvios de documentação, entre outros, de forma a garantir que o processo esteja alinhado com a gestão e vice-versa.
+Equipe do processo – equipe temporária e multidisciplinar que trabalha em estrutura matricial, com o propósito de atuação específica em um determinado processo. Papéis envolvidos:
+
+Dono do processo – é um membro da alta administração responsável pelo alinhamento do processo às diretrizes estratégicas da empresa, estabelecendo metas e resultados esperados, além de analisar os riscos existentes.
+Gestor do processo – responsável por implementar o processo e melhorá-lo de forma contínua.
+Líder do processo – o mesmo descrito acima na equipe de BPM.
+Gerentes de departamento – responsáveis pelo sucesso do projeto, coordenando os recursos da empresa e comunicando o progresso ao dono do processo.
+Especialistas no tema – possuem conhecimento sobre o tema que abrange a existência de um dado processo, apresentando a perspectiva do usuário para o novo sistema e processo. Com esse know how é possível perceber novas maneiras de fazer com que um processo seja mais eficiente e eficaz.
+Equipe de Tecnologia da Informação – torna conhecida a infraestrutura tecnológica existente e se ela está apta a suportar os processos em andamento e as suas mudanças.
+Equipe de contato e avaliação – não faz parte da estrutura formal da organização, podendo ser externa à empresa. Assim, serve como consultoria para dar o seu parecer quanto aos processos atuais, bem como orientar quanto às sugestões de melhorias e transformação de processos.
+
+O BPM CBOK também apresenta os nomes de novos cargos ou papéis que devem fazer parte de toda organização que implementa BPM. As funções deles são muito parecidas com aquelas citadas nos textos acima, por isso seguem apenas os nomes dos novos papéis de acordo com ABPMP (2013):
+
+Dono de processos
+Gerente de processos
+Analista de processos
+Designer de processos
+Arquiteto de processos
+Representante funcional
+Analista de negócios
+Especialista
+Patrocinador
