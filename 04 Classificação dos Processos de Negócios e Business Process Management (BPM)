@@ -1,0 +1,107 @@
+Classificação dos Processos de Negócios e Business Process Management (BPM)
+Aprender os diferentes tipos de processos e como tratar cada um deles de forma específica. Conhecer os conceitos e os princípios utilizados pelo BPM (Business Process Management) nas organizações.
+
+NESTE TÓPICO
+     
+
+Classificação dos Processos de Negócio
+É preciso conhecer como o BPM CBOK define alguns dos termos mais usados em todo o livro, a fim de que exista um entendimento comum quando eles são citados e utilizados dentro das empresas. A seguir, veremos as definições de negócio, processo e processo de negócio, detalhando os seus três tipos (ABPMP, 2013):
+
+Negócio
+
+Grupo de pessoas que trabalham de forma integrada para entregar valor aos seus clientes, gerando retorno às partes interessadas. O Negócio pode se referir a organizações com ou sem fins lucrativos, públicas ou privadas, de qualquer porte e segmento de mercado.
+
+Processo
+
+Processo é uma agregação de atividades e comportamentos executados por humanos ou máquinas para alcançar um ou mais resultados.
+
+((ABPMP, 2013, p. 35))
+Processo de Negócio
+
+É um trabalho ponta a ponta, que pode ser interfuncional ou interorganizacional, o qual entrega valor para os clientes ou apoia/gerencia outros processos.
+
+Obs: O trabalho ponta a ponta interfuncional significa que todo o trabalho realizado cruza limites funcionais, ou seja, cruza departamentos de diversas áreas ou setores de uma empresa, sempre buscando entregar valor para os clientes.
+
+De acordo com a ABPMP (2013), os processos de negócio de uma empresa podem ser classificados em três tipos, a saber:
+
+Processo primário
+Processo de suporte
+Processo de gerenciamento
+Veremos a seguir as características de cada um deles:
+
+Processo primário
+Segundo a ABPMP (2013), é um processo que agrega valor diretamente para o cliente, pois estão diretamente relacionados à experiência de consumo do produto ou serviço.
+
+O processo primário tem a característica de ser interfuncional ponta a ponta, ou seja, ele flui através de áreas funcionais, mas também pode ser interorganizacional ponta a ponta, isto é, ele pode fluir entre organizações, sendo processos essenciais que uma empresa executa para cumprir a sua missão.
+
+Assim, as atividades que imediatamente influenciam e impactam a experiência direta com o cliente são partes do processo primário; já as atividades que influenciam e impactam, mas não de forma imediata, podem ser consideradas como parte de processos de suporte (ABPMP, 2013).
+
+Exemplos:
+
+Desenvolver a visão e a estratégia organizacional
+Fazer marketing
+Vender produtos
+Prestar serviços
+Processo de suporte
+Para a ABPMP (2013), esse tipo de processo serve de apoio aos processos primários, bem como a outros processos de suporte, os chamados processos de suporte de segundo nível, terceiro nível e sucessivos. Além disso, pode apoiar os processos de gerenciamento, que serão vistos em breve. Os processos de suporte são frequentemente interfuncionais.
+
+O que difere os processos primários e os de suporte é que os processos de suporte entregam valor para outros processos e não diretamente para os clientes, o que não quer dizer que sejam menos importantes para a organização. Como os processos de suporte aumentam a efetividade na realização dos processos primários, eles podem ser considerados como fundamentais e estratégicos para a organização (ABPMP, 2013).
+
+Exemplo:
+
+Em uma fábrica de automóveis, do ponto de vista do cliente sendo o consumidor final, a montagem do veículo não seria um processo primário, mas sim um processo de suporte. Assim, se algum evento fizesse com que a produção dos veículos fosse interrompida, os clientes não seriam afetados imediatamente, levando muito tempo para perceber tal fato, pois os estoques existentes nas fábricas e nas concessionárias supririam as necessidades do mercado por um bom período de tempo.
+
+Processo de gerenciamento
+Para ABPMP (2013), a medição, o monitoramento e o controle das atividades, bem como a administração do negócio fazem parte dos processos de gerenciamento. Esses processos podem estar associados a áreas funcionais ou serem interfuncionais e também não agregam valor diretamente aos clientes. Porém, são necessários para assegurar que a empresa opere de acordo com seus objetivos e metas de desempenho.
+
+Exemplo:
+
+A própria disciplina de BPM é um exemplo de processo de gerenciamento, pois é constituída por processos que existem exclusivamente com a finalidade de desenhar, implementar, monitorar, controlar e melhorar continuamente outros processos de negócio.
+
+Business Process Management (BPM)
+De acordo com a ABPMP (2013), BPM pode ser definido da seguinte forma:
+
+Gerenciamento de Processos de Negócio (BPM - Business Process Management) é uma disciplina gerencial que integra estratégias e objetivos de uma organização com expectativas e necessidades de clientes, por meio do foco em processos ponta a ponta. BPM engloba estratégias, objetivos, cultura, estruturas organizacionais, papéis, políticas, métodos e tecnologias para analisar, desenhar, implementar, gerenciar desempenho, transformar e estabelecer a governança de processos.
+
+((ABPMP, 2013, p. 40))
+Para Cruz (2010), BPM não se trata de apenas uma coisa, mas sim de um conjunto de vários elementos, além de conceitos e metodologias que tratam os processos de negócio de forma holística.
+
+Assim, BPM enxerga os processos de negócio como ativos da organização. Entende-se que os objetivos organizacionais podem ser alcançados através de atividades que envolvem a definição, o desenho, o controle e a transformação contínua de processos de negócio. É importante salientar que a tecnologia utilizada em BPM serve apenas como apoio e não como liderança na sua implantação. Além disso, BPM é uma decisão estratégica e deve ter o apoio da alta direção, de modo a promover as novas práticas por processos na cultura organizacional (ABPMP, 2013).
+
+Demonstração do BPM ao centro e as atividades ao redor, envolvendo Modelagem e desenho de processos, auditoria, avaliação de maturidade, implementação, avaliação e integração de BPMS, melhoria e transformação de processos.
+BPM e atividades relacionadas
+Com BPM, a habilidade de mudar o processo passa a ser mais importante do que a habilidade para criá-lo. Isso porque a mudança gera as condições para que toda a cadeia de valor possa ser monitorada, melhorada de forma contínua e, assim, otimizada. Por ser uma disciplina gerencial, o BPM faz com que a transformação das empresas deixe de ser uma arte imprecisa e de resultados imprevisíveis, trabalhando com indicadores predefinidos, mas que também podem ser alterados de acordo com a necessidade vigente (BALDAM et al, 2007).
+
+Segundo Baldam et al (2007), os motivos que têm levado as organizações a adotarem o BPM incluem:
+
+A hipercompetitividade mundial.
+O crescimento da complexidade que envolve as empresas.
+A maior exigência de transparência nos negócios aos atores envolvidos, tais como acionistas, imprensa, etc.
+O maior uso das tecnologias informáticas que permitem transações entre empresas através da internet, como o e-Business.
+Valores, crenças, liderança e cultura
+A ABPMP (2013) afirma que os valores, crenças, liderança e cultura presentes em uma empresa influenciam diretamente o sucesso ou o fracasso das iniciativas que ela empreende. Dessa forma, a organização precisa fornecer oportunidades a seus profissionais, com possibilidades de crescimento pessoal e profissional, sempre enfatizando o compromisso com o valor do processo e do cliente como base da prática de BPM.
+
+Fatores críticos de sucesso em implantações de BPM
+Bardam et al (2007) juntaram opiniões de vários autores sobre os fatores essenciais que permitem que a implantação de BPM em uma empresa ocorra com sucesso, citando os seguintes:
+
+Apoio da alta direção
+Alinhamento do BPM à estratégia da empresa
+O gerente de BPM deve possuir experiência e competências necessárias
+Uma estrutura de orientação ao BPM que seja clara e objetiva
+Tratar a gestão de mudanças como questão estratégica
+Capacitação de pessoas envolvidas
+Todos os projetos de processos devem ser iniciados e finalizados
+Entendimento de que nenhum processo é estático. Uma empresa deve ter a habilidade de se adaptar às variações de mercado e de ambiente, a fim de que continue sendo bem sucedida
+Ter um desempenho sustentável, com trabalho continuado e sem paradas que caracterizem o trabalho como sendo pontual e eventual
+Sempre demonstrar os benefícios alcançados, bem como a agregação de valor alcançada e como a estratégia da empresa está alinhada ao BPM
+Apresentação do BPM e o relacionamento com as pessoas envolvidas no processo
+BPM e relacionamento com as pessoas envolvidas no processo
+BPM traz vários benefícios às empresas que o implementam. Você verá a seguir um infográfico baseado no BPM CBOK 2013, contendo os benefícios que o BPM traz para a organização, para o cliente, para a gerência e para o ator de processo (ABPMP, 2013, p. 24).
+
+Obs: O ator de processo é qualquer pessoa ou sistema que contribui diretamente na realização de atividades presentes no fluxo de processo.
+
+
+Benefícios de BPM
+Fonte: ABPMP Brazil. BPM CBOK - Guia para o Gerenciamento de Processos de Negócio - Corpo Comum de Conhecimento - ABPMP BPM CBOK V3.0. 1ª edição, 2013.
+Agora faça os exercícios propostos para aprimorar os seus conhecimentos!
+
