@@ -1,0 +1,75 @@
+Workflow
+Mostrar a importância do gerenciamento do fluxo de processos dentro de uma empresa através de sua automatização.
+
+NESTE TÓPICO
+
+
+Introdução
+Para atender à demanda de seus clientes, as empresas prestam serviços especializados e/ou criam produtos que possam ir ao encontro das necessidades de seus consumidores. Para que esses serviços e/ou produtos sejam realizados, existe um passo a passo a ser seguido, uma série de tarefas a serem executadas até que estes estejam terminados e prontos para a venda. Essas atividades constituem o processo de negócio de uma organização e envolve várias pessoas, de diferentes áreas, que são responsáveis por cada parte do processo, dentro de todo o tempo em que ele é efetivado.
+
+Segundo Pádua e Bispo (2003), o principal problema das atividades baseadas em processos é a falta de controle geral sobre a sua execução, como não se saber quais informações estão sendo manipuladas em dado instante, nem mesmo quem está com a responsabilidade sobre tal.
+
+O Workflow ou Fluxo de Trabalho é conhecido como uma sequência de atividades a serem executadas em ordem pré-definida, a fim de que um determinado trabalho seja concluído com sucesso. A intenção é atingir a automação dos processos de negócios, de modo que suas atividades possam ser monitoradas e gerenciadas, permitindo que ações possam ser tomadas para resolver determinados tipos de problemas e melhorar o processo em si (CAIÇARA JUNIOR, 2011).
+
+Para atingir esses objetivos, utilizam-se softwares que facilitem essas tarefas e promovam a interação entre os usuários envolvidos em cada etapa do processo a ser gerenciado. Dessa forma, o Workflow pode representar um ou mais processos e os seus relacionamentos (PÁDUA e BISPO, 2003).
+
+Segundo Valle e Oliveira (2009), todos os softwares de Workflow pesquisados em seu livro possuem ferramentas para a monitorização de processos, servindo para:
+
+Redirecionar ocorrências
+Reordenar a lista de atores
+Mudar os destinatários
+Controlar a carga de trabalho
+Representação de um software workflow e participantes do processo de negócio.
+Representação de Software Workflow
+Com o intuito de aumentar a utilização das tecnologias de Workflow, desenvolvendo padrões focados exclusivamente no processo, foi fundada em 1993 a entidade WfMC – Workflow Management Coalition ou Aliança de Gestão do Fluxo de Trabalho, uma organização global composta de desenvolvedores, consultores, analistas, grupos universitários e de pesquisa envolvidos no Workflow e no BPM (WfMC, 2016).
+
+Segundo a WfMC (2016), a instituição cria e contribui para processar padrões relacionados ao workflow, educa o mercado em questões relacionadas e é a única empresa de padronização que se concentra puramente em processos, tendo desenvolvido a Wf-XML e a XPDL, a linguagem de definição de processos utilizada atualmente em mais de oitenta soluções.de armazenamento e troca de modelos de processos.
+
+Características e Vantagens do Workflow
+Veja na citação abaixo, de Baldam et al (2007), as principais características que um software de Workflow possui:
+
+- Flexibilidade, não disponível em sistemas prontos e pacotes fechados
+
+- Melhora a visibilidade dos processos através de sistemas gráficos
+
+- Possibilita a rápida alteração de um processo
+
+- Aplicação em processos de áreas muito dinâmicas e que precisam realizar neles alterações com frequência
+
+- Aplicação em processos que necessitam intensamente, e de modo diversificado, de informação não estruturada
+
+- Locais onde se pretende implantação rápida e versátil de processo de automação
+
+((Baldam et al, 2007, p. 117))
+Como visto, os processos de uma organização podem ser grandemente agilizados por meio da tecnologia de Workflow. Caiçara e Junior (2011) e Achuthan (2015) citam as seguintes vantagens:
+
+Eliminação de redundâncias
+Melhoria na eficiência
+Melhoria na delegação de tarefas
+Estabelecimento de responsabilidades
+Melhoria na coordenação
+Abordagem sequencial das operações
+Rapidez nos processos e redução do tempo de realização das atividades
+Eliminação de papéis
+Redução de custos
+Facilita uma maior visibilidade do progresso
+Integração total entre os departamentos
+Os softwares de Workflow podem ser utilizados de forma isolada, mas também podem ser encontrados nos ERP’s e CRM’s, facilitando o controle dos processos de negócios atrelados a esses sistemas específicos.
+
+Mostrando um Exemplo de Modelagem em um Software de Workflow.
+Exemplo de Modelagem em um Software de Workflow
+Fonte: PIXSOFT, 2016 Link: http://www.pixsoft.com.br/img/telas/sof_workflow2.png
+Classificação de Workflows
+Existem alguns tipos de Workflows a serem considerados (SILVA e PINHEIRO, 2004):
+
+Workflow Ad-Hoc: Trata de processos menos complexos e não estruturados, envolvendo assim pequenas equipes com atividades mais simples e que necessitam de rápida solução. 
+Exemplo: uma tarefa dividida em equipe onde tudo é controlado e gerenciado através do e-mail corporativo.
+Workflow Administrativo: Envolve processos repetitivos com regras de coordenação de tarefas simples, não requerendo acesso a múltiplos sistemas de informação para apoiar a produção ou outro tipo de tarefa.
+Exemplo: processo de solicitação de material de escritório ao almoxarifado.
+Workflow de Produção: Envolve processos repetitivos e previsíveis, mas diferentemente do Administrativo, este trabalha com processos complexos e necessita de acesso a diversos sistemas de informação para a sua concretização.
+Exemplo: sistema de análise e concessão de empréstimos e seguros.
+Workflow Colaborativo: Sistema adequado para processos que envolvam trabalhos realizados por equipes de diferentes pessoas, buscando executar em conjunto uma tarefa específica.
+Exemplo: processos para revisão de artigos científicos, os quais envolvem vários especialistas que dão o seu parecer aos mesmos trabalhos enviados por diversos autores.
+Workflow Transacional: Sistema que envolve a execução e a coordenação de múltiplas tarefas, onde estas podem ser agrupadas em unidades atômicas, consistentes, isoladas e duráveis.
+Exemplo: aplicação crítica de venda on-line por meio da internet.
+As vendas de softwares de Workflow não foram muito significativas. Com a difusão do BPM (Business Process Management) e do BPMS (Business Process Management Suite/Systems), a importância do Workflow foi “resgatada”. Pode-se afirmar que o software BPMS é o mesmo software Workflow, mas com outro nome (CRUZ, 2010).
